@@ -54,3 +54,7 @@ servers:
 
 - To restore a specific server, use the command: `/pbackuprestore <server-name>`
 - To restore backups for all configured servers, use the command: `/pbackuprestore all`
+
+## License
+
+This project is licensed under the GNU General Public License v3
