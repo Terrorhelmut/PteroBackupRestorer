@@ -4,6 +4,8 @@
 
 **PteroBackupRestorer** is a Minecraft Velocity plugin that allows server administrators to restore backups for specific or all servers within their network using the Pterodactyl API. This plugin provides a streamlined and efficient way to manage server backups directly from the game or console.
 
+### For further help contact me on discord my username is Terrorhelmut
+
 ## Features
 
 - **Tested Minecraft Version**: 1.21
